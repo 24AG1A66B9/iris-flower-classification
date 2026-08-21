@@ -2,9 +2,6 @@
 
 A Machine Learning project that classifies Iris flowers into **Setosa, Versicolor, and Virginica** based on their sepal and petal measurements.
 
-## 🚀 Live Demo
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_APP_LINK)
 
 ## 📌 Project Overview
 
@@ -46,4 +43,5 @@ iris-flower-classification/
 ├── requirements.txt
 └── README.md 
 ```
+## 🚀live demo
 https://iris-flower-classification-ea3z5n7cb4t3jn3yphytvo.streamlit.app/
