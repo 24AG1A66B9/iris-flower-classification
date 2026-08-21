@@ -45,3 +45,5 @@ iris-flower-classification/
 ├── app.py
 ├── requirements.txt
 └── README.md
+
+[🌸 **Open Iris Flower Classification App**](https://iris-flower-classification-ea3z5n7cb4t3jn3yphytvo.streamlit.app/)
